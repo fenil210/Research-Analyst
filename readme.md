@@ -44,9 +44,6 @@ To start using LLM-FNIRA, simply follow these steps:
 4. Ask questions or explore the insights provided by LLM-FNIRA.
 5. Experiment with different URLs and queries to further explore its capabilities.
 
-## Contributing
-
-We welcome contributions from the community to enhance LLM-FNIRA's functionality and capabilities. Whether it's adding new features, improving existing algorithms, or fixing bugs, your contributions are invaluable in making LLM-FNIRA a more powerful tool for research and analysis.
 
 ## License
 
