@@ -44,6 +44,21 @@ To start using LLM-FNIRA, simply follow these steps:
 4. Ask questions or explore the insights provided by LLM-FNIRA.
 5. Experiment with different URLs and queries to further explore its capabilities.
 
+## Sample Output:
+![output final](https://github.com/fenil210/Research-Analyst/assets/121050723/da47e398-3b2b-43be-8280-477c84b9bd82)
+
+## Used News URLs:
+1) https://www.business-standard.com/finance/news/sovereign-gold-bonds-help-save-3-3-billion-in-india-s-gold-import-bill-124031000374_1.html
+2) https://www.business-standard.com/finance/news/sidbi-secures-first-green-climate-fund-project-worth-120-million-124031100590_1.html
+
+## Acknowledgements
+[Hugging Face](https://openai.com/) for providing access to the GPT 3.5 Turbo model.
+
+[Streamlit](https://streamlit.io/) for simplifying the development of interactive web applications.
+
+[Langchain](https://www.langchain.com/) for ensuring content integrity through blockchain integration.
+
+[Krish Naik](https://www.linkedin.com/in/dhavalsays/) for LLM, Streamlit and Langchain guidance.
 
 ## License
 
