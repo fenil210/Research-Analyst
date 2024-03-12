@@ -58,7 +58,7 @@ To start using LLM-FNIRA, simply follow these steps:
 
 [Langchain](https://www.langchain.com/) for ensuring content integrity through blockchain integration.
 
-[Krish Naik](https://www.linkedin.com/in/dhavalsays/) for LLM, Streamlit and Langchain guidance.
+[Dhaval Patel](https://www.linkedin.com/in/dhavalsays/) for LLM, Streamlit and Langchain guidance.
 
 ## License
 
