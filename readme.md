@@ -52,7 +52,7 @@ To start using LLM-FNIRA, simply follow these steps:
 2) https://www.business-standard.com/finance/news/sidbi-secures-first-green-climate-fund-project-worth-120-million-124031100590_1.html
 
 ## Acknowledgements
-[Hugging Face](https://openai.com/) for providing access to the GPT 3.5 Turbo model.
+[OpenAI](https://openai.com/) for providing access to the GPT 3.5 Turbo model.
 
 [Streamlit](https://streamlit.io/) for simplifying the development of interactive web applications.
 
