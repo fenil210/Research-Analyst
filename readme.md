@@ -45,7 +45,8 @@ To start using LLM-FNIRA, simply follow these steps:
 5. Experiment with different URLs and queries to further explore its capabilities.
 
 ## Sample Output:
-![output final](https://github.com/fenil210/Research-Analyst/assets/121050723/a78b24d5-deb6-4450-8cf9-997c92165a2f)
+![output new new final](https://github.com/fenil210/Research-Analyst/assets/121050723/6a7c69b8-bff9-434f-9f64-079896aab04e)
+
 
 
 ## Used News URLs:
