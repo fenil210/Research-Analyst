@@ -45,7 +45,8 @@ To start using LLM-FNIRA, simply follow these steps:
 5. Experiment with different URLs and queries to further explore its capabilities.
 
 ## Sample Output:
-![output final](https://github.com/fenil210/Research-Analyst/assets/121050723/da47e398-3b2b-43be-8280-477c84b9bd82)
+![output final](https://github.com/fenil210/Research-Analyst/assets/121050723/a78b24d5-deb6-4450-8cf9-997c92165a2f)
+
 
 ## Used News URLs:
 1) https://www.business-standard.com/finance/news/sovereign-gold-bonds-help-save-3-3-billion-in-india-s-gold-import-bill-124031000374_1.html
